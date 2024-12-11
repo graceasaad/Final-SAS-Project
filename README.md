@@ -1,3 +1,4 @@
+Financial Stress Among College Students
 Background: 
 College students, both part-time and full-time, face many different financial strains and varying levels of financial stress. In this study, we chose to survey students about their financial stress including causes, academic workload, employment, and budgeting decisions.
 
